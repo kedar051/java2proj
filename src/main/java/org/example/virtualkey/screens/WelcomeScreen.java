@@ -81,7 +81,7 @@ public class WelcomeScreen implements Screen {
     	
     	//Finished TODO Task
 
-        System.out.println("List of Files: ");
+        System.out.println("List of all the Files: ");
     	DirectoryService.PrintFiles();
 
     }
